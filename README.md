@@ -1,1 +1,1 @@
-# Intro-to-Tutorial-Challenges-ALGO
+# Intro-to-Tutorial-Challenges-ALGO.This code uses binary search to find the index of a target integer V in a sorted list arr, efficiently returning its 0-based position. The Main method handles input and output, reading the array, calling introTutorial, and writing the result.
